@@ -1,0 +1,147 @@
+body{
+  font-family: 'Delius', cursive;
+}
+
+section{
+  /* border: 1px solid red; */
+  height: 800px;
+}
+
+h2{
+  font-size: 40px;
+}
+
+span{
+  font-weight: bold;
+  font-size: 70px;
+  color: brown;
+}
+
+.certer-align{
+  text-align: center;
+}
+
+.description{
+  text-align: justify;
+  font-size: 35px;
+}
+
+div a{
+  background-color: chocolate;
+  border-radius: 5px;
+  color: aliceblue;
+  text-decoration: none;
+  font-size: 35px;
+  padding: 2%;
+}
+
+.header-sec{
+  background-image: url(image/header/header-bg.png);
+  background-repeat: no-repeat;
+}
+
+.hello{
+  color: cornflowerblue;
+}
+
+.head-text{
+  padding: 5% 0% 0% 10%;
+}
+
+.my-intro{
+  width: 40%;
+  float: left;
+  
+}
+
+.head-cover{
+  width: 100%;
+}
+
+.mid-cover{
+  width: 100%;
+  padding: 5% 0% 0% 5%;
+}
+
+.bio{
+  color: greenyellow;
+}
+
+.mid-sec{
+  background-image: url(image/content/mid-bg.png);
+  background-repeat: no-repeat;
+}
+
+.mid-text{
+  padding: 5% 0% 0% 10%;
+}
+
+.work-text{
+  font-size: 50px;
+  font-weight: bolder;
+  padding: 5%;
+}
+
+.work-sec{
+  background-image: url(image/latest-work/bg.png);
+  background-repeat: no-repeat;
+}
+
+.work-pic{
+  margin-left: 2.5%;
+  float: left;
+  width: 30%;
+  width: 30%;
+}
+
+.footer-sec{
+  background-image: url(image/footer/bg.png);
+  background-repeat: no-repeat;
+}
+
+.footer-text{
+  font-size: 50px;
+  font-weight: bolder;
+  padding: 2% 0% 2% 0%;
+}
+
+.footer-name{
+  font-size: 30px;
+  font-weight: bolder;
+  margin-bottom: 0px;
+}
+
+.footer-job{
+  color: grey;
+}
+
+.footer-description{
+  position: relative;
+  left: 35%;
+  width: 30%;
+  padding: 1% 0% 1% 0%;
+  font-size: 25px;
+}
+
+.footer-massage{
+  border-radius: 10px;
+  position: relative;
+  left: 30%;
+  width: 40%;
+  padding: 2% 0% 2% 0%;
+  background-image: linear-gradient(90deg, red, chocolate);
+}
+
+.message{
+  color: white;
+  font-size: 20px;
+}
+
+.gmail{
+  color: white;
+  font-size: 30px;
+}
+
+.credit{
+  text-align: center;
+}
